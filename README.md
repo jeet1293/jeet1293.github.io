@@ -13,7 +13,7 @@ jeetendra.oza@gmail.com
     Gujarat Technological University
 
 ## Experience
-**3 Years of Expirence in Web Development**
+**3 Years of Experience in Web Development**
 
 ## Technical Skills
 * Laravel
