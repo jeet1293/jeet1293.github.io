@@ -13,7 +13,7 @@ jeetendra.oza@gmail.com
     Gujarat Technological University
 
 ## Experience
-**5+ Years of Experience in Web Development**
+**7+ Years of Experience in Web Development**
 
 ## Technical Skills
 * PHP
@@ -21,9 +21,10 @@ jeetendra.oza@gmail.com
 * CodeIgniter
 * MySQL, PostgreSQL
 * Version Control (GIT)
-* Angular
+* Jira
 * React
 * Bootstrap
+* Node
 
 
 ## License
